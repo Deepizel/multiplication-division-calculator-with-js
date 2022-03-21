@@ -1,0 +1,46 @@
+body {
+  background-color: greenyellow;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 30%;
+}
+
+p {
+  font-size: 100rem;
+  font-family: "Times New Roman";
+  font-weight: bolder;
+  font-size: large;
+  color: brown;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#welcomeTxt {
+margin-left: 0px;
+}
+
+
+.form {
+  width: 20rem;
+  border: 1px solid black;
+  box-shadow: 2px;
+  margin: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: grey;
+}
+.form button {
+  margin-left: 80px;
+  margin-top: 15px;
+}
+#formLbl {
+  margin-left: 10px;
+  margin-top: 20px;
+}
+#formLb1 , #formLb2{
+   margin-left: 10px;
+  margin-top: 20px;
+}
